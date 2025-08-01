@@ -6,5 +6,5 @@ setup(
     packages=find_packages(),  # Automatically finds your modules
     install_requires=['networkx'],  # Add other dependencies if needed
     author='Aditya Kumaran',
-    description='Companion library for graph algorithms like DFS and Floyd-Warshall',
+    description='Companion library for graph algorithms including BFS, DFS, Dijkstra, and Floyd-Warshall',
 )
